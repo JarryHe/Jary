@@ -1,4 +1,4 @@
-package com.jary.Bloom;
+package com.jary.datastructure;
 
 import java.util.BitSet;
 
